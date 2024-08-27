@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,100:185a9d&height=200&section=header&text=kanghyun's%20github&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,100:185a9d&height=250&section=header&text=kanghyun's%20github&fontSize=90&fontColor=ffffff)
 
 <div align="center">  
 👋 Hi there welcome to my GitHub! <br>  
