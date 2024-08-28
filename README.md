@@ -2,14 +2,12 @@
 
 
 <div align="center">  
-👋 안녕하세요! 저는 강현입니다! <br>
-I'm a growing backend developer.  
+👋 안녕하세요 저는 강현입니다! <br>
+저는 성장하는 백엔드 개발자입니다! 
 
-<br>  
+<br><br>
 🌟 수학, 빅데이터 사이언스 전공  
-<br>  
 💻 SSAFY 11기  
-<br>
 <br>
 
 <h2 align="center"> 🛠 기술 스택 </h2>
@@ -72,7 +70,7 @@ I'm a growing backend developer.
 
 ![kanghyun's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kanghyun&theme=radical)
 
-<h3 align="center"> 🧸 Me 🧸 </h3>
+<h3 align="center"> 👀 Me </h3>
 
 <p align="center">
   <a href="https://www.instagram.com/kkanghyuny/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kkanghyuny/"/></a>&nbsp
