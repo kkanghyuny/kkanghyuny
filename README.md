@@ -14,7 +14,7 @@ SSAFY 11기 (2024.01 ~ )
 SEASON (2023.09 ~ 2023.12)
 
 YoonLab (2022.09 ~ 2023.08)
-<br>
+<br><br>
 
 <h2 align="center"> 🛠 기술 스택 </h2>
 
