@@ -7,7 +7,14 @@
 
 <br><br>
 🌟 수학, 빅데이터 사이언스 전공  
-💻 SSAFY 11기  
+
+<h3 align="center"> 💻 경력 </h3>
+
+SSAFY 11기 (2024.01 ~ )
+
+SEASON (2023.09 ~ 2023.12)
+
+YoonLab (2022.09 ~ 2023.08)
 <br>
 
 <h2 align="center"> 🛠 기술 스택 </h2>
