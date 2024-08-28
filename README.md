@@ -68,7 +68,7 @@
 
 <h3 align="center"> 📊 GitHub 통계 </h3>
 
-![kanghyun's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kanghyun&theme=radical)
+![kanghyun's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kkanghyuny&theme=radical)
 
 <h3 align="center"> 👀 Me </h3>
 
