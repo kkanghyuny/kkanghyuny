@@ -7,7 +7,7 @@
 💫 꾸준히 성장하는 백엔드 개발자입니다!
 <br><br>
 
-<h3 align="center"> 💻 경력 </h3>
+<h3 align="center"> 💻 Activity </h3>
 
 SSAFY 11기 (2024.01 ~ )
 
@@ -16,9 +16,9 @@ SEASON (2023.09 ~ 2023.12)
 YoonLab (2022.09 ~ 2023.08)
 <br><br>
 
-<h2 align="center"> 🛠 기술 스택 </h2>
+<h2 align="center"> 🛠 Skill </h2>
 
-<h3 align="center"> 💡 프로그래밍 언어 </h3>
+<h3 align="center"> 💡 Programming Language </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
@@ -27,7 +27,7 @@ YoonLab (2022.09 ~ 2023.08)
   <img src="https://img.shields.io/badge/SAS-0086A8?style=flat-square&logo=SAS&logoColor=white">
 </div>
 
-<h3 align="center"> 💡 프레임워크 및 라이브러리 </h3>
+<h3 align="center"> 💡 Framework, Library </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
@@ -41,7 +41,7 @@ YoonLab (2022.09 ~ 2023.08)
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white">
 </div>
 
-<h3 align="center"> 💡 데이터베이스 </h3>
+<h3 align="center"> 💡 Database </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white">
@@ -49,7 +49,7 @@ YoonLab (2022.09 ~ 2023.08)
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
 </div>
 
-<h3 align="center"> 💡 도구 및 플랫폼 </h3>
+<h3 align="center"> 💡 Tool </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
@@ -72,7 +72,7 @@ YoonLab (2022.09 ~ 2023.08)
 
 <img src="http://mazandi.herokuapp.com/api?handle=lkh0131&theme=warm"/>
 
-<h3 align="center"> 📊 GitHub 통계 </h3>
+<h3 align="center"> 📊 GitHub Statistics </h3>
 
 ![kanghyun's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kkanghyuny&theme=radical)
 
