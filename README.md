@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=0:fc466b,100:3f5efb&height=200&section=header&text=Kanghyun's%20github&fontSize=70&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=0:fc466b,100:3f5efb&height=200&section=header&text=kkanghyuny's%20github&fontSize=70&fontColor=ffffff)
 
 
 <div align="center">  
-👋 안녕하세요 저는 강현입니다! <br>
+👋 Hello, there! <br>
 🌟 수학, 빅데이터 사이언스 전공  <br>
 💫 꾸준히 성장하는 백엔드 개발자입니다!
 <br><br>
@@ -12,8 +12,6 @@
 SSAFY 11기 (2024.01 ~ )
 
 SEASON (2023.09 ~ 2023.12)
-
-YoonLab (2022.09 ~ 2023.08)
 <br><br>
 
 <h2 align="center"> 🛠 Skill </h2>
