@@ -76,7 +76,7 @@ SEASON (2023.09 ~ 2023.12)
 <h3 align="center"> 👀 Me </h3>
 
 <p align="center">
-  <a href="https://www.notion.so/Kanghyun-Lee-41b50e169e11402babfc355e0addd706?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"></a>&nbsp
+  <a href="https://juicy-gerbil-40e.notion.site/Kanghyun-Lee-41b50e169e11402babfc355e0addd706"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"></a>&nbsp
   <a href="https://www.instagram.com/kkanghyuny/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kkanghyuny/"/></a>&nbsp
   <a href="mailto:lkh000131@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=lkh000131@naver.com"/></a>
 </p>
