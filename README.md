@@ -67,7 +67,7 @@ SEASON (2023.09 ~ 2023.12)
 <br><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lkh0131)](https://solved.ac/lkh0131)
 
-<img src="http://mazandi.herokuapp.com/api?handle=lkh0131&theme=warm"/>
+<!-- <img src="http://mazandi.herokuapp.com/api?handle=lkh0131&theme=warm"/> -->
 
 <h3 align="center"> 📊 GitHub Statistics </h3>
 
