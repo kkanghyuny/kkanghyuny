@@ -27,21 +27,18 @@ SEASON (2023.09 ~ 2023.12)
 
 <h3 align="center"> 💡 Framework, Library </h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=jsp&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
 </div>
 
 <h3 align="center"> 💡 Database </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
 </div>
 
 <h3 align="center"> 💡 Tool </h3>
@@ -61,8 +58,6 @@ SEASON (2023.09 ~ 2023.12)
 
 <br><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lkh0131)](https://solved.ac/lkh0131)
-
-<!-- <img src="http://mazandi.herokuapp.com/api?handle=lkh0131&theme=warm"/> -->
 
 <h3 align="center"> 📊 GitHub Statistics </h3>
 
