@@ -9,6 +9,8 @@
 
 <h3 align="center"> 💻 Activity </h3>
 
+RDS 주식회사 (2025.01 ~ )
+
 SSAFY 11기 (2024.01 ~ 2024.12)
 
 SEASON (2023.09 ~ 2023.12)
