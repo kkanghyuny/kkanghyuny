@@ -4,12 +4,12 @@
 <div align="center">  
 👋 Hello, there! <br>
 🌟 수학, 빅데이터 사이언스 전공  <br>
-💫 꾸준히 성장하는 백엔드 개발자입니다!
+💫 꾸준히 성장하는 SW, AI 개발자입니다!
 <br><br>
 
 <h3 align="center"> 💻 Activity </h3>
 
-RDS 주식회사 (2025.01 ~ )
+RDS 주식회사 (2025.01 ~ 2026.06)
 
 SSAFY 11기 (2024.01 ~ 2024.12)
 
