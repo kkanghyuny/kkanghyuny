@@ -1,11 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=0:fc466b,100:3f5efb&height=200&section=header&text=kkanghyuny's%20github&fontSize=70&fontColor=ffffff)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=32&duration=3000&pause=1000&color=1428A0&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+kkanghyuny!;SW+%26+AI+Developer+%F0%9F%92%BB" alt="Typing SVG" />
+</div>
 
-
-<div align="center">  
-👋 Hello, there! <br>
-🌟 수학, 빅데이터 사이언스 전공  <br>
-💫 꾸준히 성장하는 SW, AI 개발자입니다!
-<br><br>
+<br>
 
 <h3 align="center"> 💻 Activity </h3>
 
