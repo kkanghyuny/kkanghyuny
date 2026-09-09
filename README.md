@@ -3,7 +3,7 @@
 
 <br>
 
-<h3 align="center"> 💻 Activity </h3>
+<h3 align="center"> 🧑🏻‍💻 Activity </h3>
 
 SAMSUNG SDS (2026.07 ~ )
 
