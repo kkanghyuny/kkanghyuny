@@ -18,6 +18,7 @@ SSAFY 11기 (2024.01 ~ 2024.12)
 SEASON (2023.09 ~ 2023.12)
 <br><br>
 
+<!--
 <h2 align="center"> 🛠 Skill </h2>
 
 <h3 align="center"> 💡 Programming Language </h3>
@@ -59,24 +60,20 @@ SEASON (2023.09 ~ 2023.12)
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white">
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white">
 </div>
+-->
 
-<br><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lkh0131)](https://solved.ac/lkh0131)
 
-<h3 align="center"> 📊 GitHub Statistics </h3>
-
-![kanghyun's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kkanghyuny&theme=radical)
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/kkanghyuny"/>
+</a>
 
 <h3 align="center"> 👀 Me </h3>
 
 <p align="center">
   <a href="https://juicy-gerbil-40e.notion.site/Kanghyun-Lee-41b50e169e11402babfc355e0addd706"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"></a>&nbsp
   <a href="https://www.instagram.com/kkanghyuny/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kkanghyuny/"/></a>&nbsp
-  <a href="mailto:lkh000131@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=lkh000131@naver.com"/></a>
-</p>
-
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkanghyuny&count_bg=%236a82fb&title_bg=%23757575&icon=github.svg&icon_color=%23ffffff&title=hits&edge_flat=false"/></a>
+  <a href="mailto:lkh000131@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=lkh000131@naver.com"/></a>
 </p>
 
 
