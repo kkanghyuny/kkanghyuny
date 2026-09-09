@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=32&duration=3000&pause=1000&color=1428A0&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+kkanghyuny!;SW+%26+AI+Developer+%F0%9F%92%BB" alt="Typing SVG" />
-</div>
 
 <br>
 
@@ -73,4 +72,4 @@ SEASON (2023.09 ~ 2023.12)
   <a href="mailto:lkh000131@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=lkh000131@naver.com"/></a>
 </p>
 
-
+</div>
